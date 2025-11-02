@@ -4,9 +4,7 @@
   "description": "Cross-platform, isomorphic alert, for Node and browser (previously alert-node)",
   "version": "5.1.4",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "zautumnz"
   },
   "license": "MIT",
   "main": "index.js",
@@ -17,12 +15,12 @@
     "preversion": "npm t",
     "test": "standard"
   },
-  "homepage": "https://github.com/zacanger/alert#readme",
+  "homepage": "https://github.com/zautumnz/alert#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/alert.git"
+    "url": "https://github.com/zautumnz/alert.git"
   },
-  "bugs": "https://github.com/zacanger/alert/issues",
+  "bugs": "https://github.com/zautumnz/alert/issues",
   "keywords": [
     "alert",
     "cli",
